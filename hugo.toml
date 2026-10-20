@@ -81,7 +81,7 @@ url = "tags"
 [params.homeInfoParams]
 Title = "Hello"
 Content = """
-👋 Welcome! I write about software engineering, AI, and whatever else I'm thinking about.
+Hello! Welcome! I write about software engineering, AI, and everything in between.
 """
 
 [[params.socialIcons]]
@@ -93,6 +93,11 @@ url = "https://github.com/abranjith"
 name = "X"
 title = "X/Twitter"
 url = "https://x.com/abranjith"
+
+[[params.socialIcons]]
+name = "linkedin"
+title = "LinkedIn"
+url = "https://www.linkedin.com/in/ranjith-bojraj-22031753/"
 
 [params.assets]
 disableHLJS = true
