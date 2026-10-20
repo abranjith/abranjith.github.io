@@ -1,0 +1,6 @@
+todo.md
+
+# Hugo build output (the site is built by GitHub Actions)
+/public/
+/resources/_gen/
+.hugo_build.lock
